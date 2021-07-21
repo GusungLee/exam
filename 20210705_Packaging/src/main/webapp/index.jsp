@@ -18,8 +18,12 @@
 		<li>소스코드관리</li>
 		<li>문서관리</li>
 	</ul>
+<<<<<<< HEAD
 	
 	<div>이거 되는건가 확인 고우</div>
 
+=======
+테스트중입니다
+>>>>>>> branch 'main' of https://github.com/GusungLee/exam.git
 </body>
 </html>
